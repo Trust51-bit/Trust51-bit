@@ -1,4 +1,6 @@
 ## Hi there 👋
+Mi chiamo Simone e sto usando GitHub a un corso per imparare a usarlo.
+Spero vi piaccia ma tenete conto che sto imparando, ok?
 
 <!--
 **Trust51-bit/Trust51-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
