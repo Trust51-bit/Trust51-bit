@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Ciao,%20sono%20Simone!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -15,7 +15,7 @@ Questo spazio è il mio laboratorio digitale: qui raccolgo esercizi, prove, appu
 ### 🌱 Cosa sto imparando
 
 - 🧠 Le basi di **Git** e **GitHub**
-- 💻 Come creare e gestire repository
+- 💻 Come creare e gestire repository e coltivare banani enormi neri.....
 - 📁 Come organizzare file e progetti
 - 🧪 Come sperimentare con il codice
 - 🔧 Come migliorare un passo alla volta
