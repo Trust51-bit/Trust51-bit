@@ -15,7 +15,7 @@ Questo spazio è il mio laboratorio digitale: qui raccolgo esercizi, prove, appu
 ### 🌱 Cosa sto imparando
 
 - 🧠 Le basi di **Git** e **GitHub**
-- 💻 Come creare e gestire repository e coltivare banani enormi neri.....
+- 💻 Come creare e gestire repository 
 - 📁 Come organizzare file e progetti
 - 🧪 Come sperimentare con il codice
 - 🔧 Come migliorare un passo alla volta
